@@ -30,5 +30,7 @@ Hastanın serviste kalma süresi: 93600 saniye (26.00 saat, 1.08 gün)
 📚 Kullanılan Kavramlar
 -
 Struct: Yatış ve taburcu zamanlarını tek bir yapı içinde saklamak için kullanılır.
+
 Union: Epoch zaman hesaplamalarında belleği verimli kullanmak için kullanılır.
+
 Epoch Zamanı: 1 Ocak 1970 UTC’den itibaren geçen saniye sayısını ifade eder ve tarih farkı hesaplamalarında kullanılır.
