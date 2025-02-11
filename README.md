@@ -13,10 +13,10 @@ union kullanılarak bu zamanlar epoch zamanına dönüştürülür.
 Programı çalıştırdıktan sonra sırasıyla şunları girmeniz istenir:
 
 📌 Yatış tarihi ve saati (YYYY MM DD HH MM SS formatında)
-✅ Taburcu tarihi ve saati (YYYY MM DD HH MM SS formatında)
-Program, bu verileri kullanarak:
 
-Epoch zamanını hesaplar.
+✅ Taburcu tarihi ve saati (YYYY MM DD HH MM SS formatında)
+
+Program, bu verileri kullanarak:Epoch zamanını hesaplar.
 İki tarih arasındaki süreyi saniye, saat ve gün olarak ekrana yazdırır.
 
 🛠 Örnek Çıktı
